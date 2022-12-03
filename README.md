@@ -1,2 +1,2 @@
-# Radar
-Write a program that reads the speed of a car. If he exceeds 80 km/h, show a message saying he was fined. The fine will cost 7.00 for each Km over the limit plus a fixed amount of 39.85.
+# Basic knowledge test, developed in the second semester of Engineering. Application of the following topics: Output and Input command; Variables; Simple, compound, aligned and IF/ELIF/ELSE conditional structure; Arithmetic operators, assignment operator and relational operators.
+
